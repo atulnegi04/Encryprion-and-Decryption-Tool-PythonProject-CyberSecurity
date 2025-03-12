@@ -1,1 +1,1 @@
-
+An Encryption and Decryption Tool using Python is a program that allows users to encode (encrypt) and decode (decrypt) messages or data to ensure security. It converts plain text into unreadable ciphertext and then back to readable text using cryptographic techniques.
